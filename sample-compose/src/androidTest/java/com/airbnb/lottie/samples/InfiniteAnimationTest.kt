@@ -29,6 +29,7 @@ class InfiniteAnimationTest {
     @Test
     fun testInfiniteAnimation() {
         val composition = LottieCompositionFactory.fromRawResSync(composeTestRule.activity, R.raw.heart).value!!
+        //qwdhkqwhdekgkjwhgdjasgdfjhasfdhjasgfd
         composeTestRule.setContent {
             val progress by animateLottieCompositionAsState(composition, iterations = LottieConstants.IterateForever)
             Box(
