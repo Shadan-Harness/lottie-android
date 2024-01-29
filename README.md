@@ -11,7 +11,7 @@ For the first time, designers can create **and ship** beautiful animations witho
 # Sponsors
 
 Lottie is maintained and improved on nights and weekends. If you use Lottie in your app, please consider sponsoring it to help ensure that we can continue to improve the project we love.
-Click the sponsor button above to learn more
+Click the sponsor button above to learn more lhdgfhdsgfhsdgf
 
 <img src="gifs/Sponsor.png" alt="Sponsor Button" width="100"/>
 
