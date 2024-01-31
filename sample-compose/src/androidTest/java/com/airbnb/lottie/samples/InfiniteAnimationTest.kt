@@ -20,6 +20,7 @@ import com.airbnb.lottie.sample.compose.ComposeActivity
 import com.airbnb.lottie.sample.compose.R
 import org.junit.Rule
 import org.junit.Test
+//fdsfdsf
 
 class InfiniteAnimationTest {
 
