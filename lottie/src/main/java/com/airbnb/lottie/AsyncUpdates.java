@@ -35,6 +35,7 @@ package com.airbnb.lottie;
  * The background thread is created via LottieDrawable.setProgressExecutor. You can refer to it for the current default
  * thread pool configuration.
  */
+//jghfhfhhg
 public enum AsyncUpdates {
   /**
    * Default value.
