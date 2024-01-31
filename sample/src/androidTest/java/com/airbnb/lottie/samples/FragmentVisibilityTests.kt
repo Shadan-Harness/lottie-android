@@ -62,6 +62,7 @@ class FragmentVisibilityTests {
             override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View {
                 return RecyclerView(requireContext()).apply {
                     layoutManager = LinearLayoutManager(requireContext(), LinearLayoutManager.VERTICAL, false)
+                    //sdasdasd
                     // Setting itemAnimator to null is important for this test in order to
                     // prevent the recyclerview from creating an additional viewholder for the
                     // purposes of animation.
